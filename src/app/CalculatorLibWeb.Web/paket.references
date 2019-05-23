@@ -1,0 +1,14 @@
+NUnit
+StackExchange.Redis
+bootstrap
+Microsoft.AspNet.Identity.Owin
+Microsoft.AspNet.Mvc
+Microsoft.AspNet.Web.Optimization
+Microsoft.AspNet.WebApi
+Microsoft.AspNet.WebApi.Owin
+Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+Microsoft.jQuery.Unobtrusive.Validation
+Microsoft.Owin.Host.SystemWeb
+Modernizr
+RestSharp
+Strathweb.CacheOutput.WebApi2

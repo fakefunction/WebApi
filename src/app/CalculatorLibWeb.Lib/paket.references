@@ -1,0 +1,7 @@
+System.Configuration
+StackExchange.Redis
+NLog
+Microsoft.AspNet.SignalR.SelfHost
+Microsoft.AspNet.SignalR.SystemWeb
+Microsoft.Owin.StaticFiles
+Microsoft.AspNet.WebApi
